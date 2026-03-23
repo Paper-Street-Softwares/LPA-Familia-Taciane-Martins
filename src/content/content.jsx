@@ -223,7 +223,7 @@ const content = {
           title: <>Como funciona a guarda dos filhos?</>,
           paragraph: (
             <>
-              Aguarda pode ser compartilhada ou unilateral, sempre levando em
+              A guarda pode ser compartilhada ou unilateral, sempre levando em
               consideração o que é melhor para a criança. O objetivo é garantir
               convivência equilibrada e decisões responsáveis sobre a vida dos
               filhos.
