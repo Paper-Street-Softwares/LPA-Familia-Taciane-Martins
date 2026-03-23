@@ -817,27 +817,23 @@ const content = {
       cards: {
         card1: {
           icon: Handshake,
-          text: <>Discrição absoluta</>,
-          subtitle: <>Sigilo total em todas as etapas do atendimento.</>,
+          text: <>Escuta atenta e sem julgamentos</>,
+          subtitle: <></>,
         },
         card2: {
           icon: Users,
-          text: <>Defesa técnica e imediata</>,
-          subtitle: <>Atuação rápida com estratégia jurídica desde o início.</>,
+          text: <>Orientação clara em cada passo</>,
+          subtitle: <></>,
         },
         card3: {
           icon: ShieldCheck,
-          text: <>Acompanhamento em delegacia</>,
-          subtitle: (
-            <>Presença ativa para garantir seus direitos no momento crítico.</>
-          ),
+          text: <>Soluções que evitam desgaste</>,
+          subtitle: <></>,
         },
         card4: {
           icon: MessageSquare,
-          text: <>Atendimento emergencial 24h</>,
-          subtitle: (
-            <>Suporte disponível a qualquer hora, quando você precisar.</>
-          ),
+          text: <>Atendimento personalizado</>,
+          subtitle: <></>,
         },
       },
       textFooter: <></>,
