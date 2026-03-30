@@ -106,7 +106,7 @@ export const infos = {
   youtubeProfile: "",
 
   whatsappDefaultMessage:
-    "Olá! Vim através do site de vocês e gostaria de tirar umas dúvidas.",
+    "Olá! Vim através do site de vocês e gostaria de falar com uma Advogada de Família. Pode me ajudar?",
   whatsChatDefaultMessage:
     "Gostaria de falar conosco agora mesmo? Clque abaixo 👇",
   slogan: "",
@@ -141,7 +141,7 @@ const content = {
       miniTag: <>ADVOGADA DE FAMÍLIA</>,
       FirstPart: <span>Está passando por um divórcio ou conflito </span>,
       Destaque: (
-        <span className="destaque relative italic font-light">familiar?</span>
+        <span className="relative italic font-light destaque">familiar?</span>
       ),
       SecondPart: <span></span>,
       subtitle: (
